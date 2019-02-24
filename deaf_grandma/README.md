@@ -1,3 +1,3 @@
 # La abuela Sorda
 
-En este reto creamos una aplicación que retorma una respuesta usando el verbo POST
+En este reto creamos una aplicación que retorna una respuesta usando el verbo POST
